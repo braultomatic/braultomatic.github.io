@@ -3,6 +3,6 @@
 Offering intuitive solutions for learning and fun.
 
 ```markdown
-## Our apps:
+Our apps:
 [EZBuzzer](https://braultomatic.github.io/ezbuzzer)
 ```
