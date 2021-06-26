@@ -1,7 +1,6 @@
-<html>
-<body>
-<h1>Braultomatic Innovations 2</h1>
-<p>Our apps:</p>
-<a href="https://braultomatic.github.io/ezbuzzer/">EZBuzzer</a>
-</body>
-</html>
+# Braultomatic Innovations 3
+
+Offering intuitive solutions for learning and fun.
+
+## Our apps:
+https://braultomatic.github.io/ezbuzzer/
