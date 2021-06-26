@@ -3,4 +3,4 @@
 Offering intuitive solutions for learning and fun.
 
 ## Our apps:
-[GitHub](http://github.com)
+[EZBuzzer](https://braultomatic.github.io/ezbuzzer)
