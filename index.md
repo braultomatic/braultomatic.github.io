@@ -1,4 +1,4 @@
-## Offering intuitive solutions for learning and fun.
+### Offering intuitive solutions for learning and fun.
 
-### Our apps:
+## Our apps:
 [EZBuzzer](https://braultomatic.github.io/ezbuzzer)
