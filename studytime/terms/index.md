@@ -8,8 +8,7 @@ You agree to comply with the Terms and that the Terms control your relationship 
 
 Section 1: Account and Registration
 a. Accepting the Terms
-You may not use the APIs and may not accept the Terms if (a) you are not of legal age to form a binding contract with Google, 
-or (b) you are a person barred from using or receiving the APIs under the applicable laws of the United States or other countries including the country in which you are resident or from which you use the APIs.
+You may not use the APIs and may not accept the Terms if (a) you are not of legal age to form a binding contract with StudyTime.
 
 Section 2: Using Our App
 a. Your End Users
@@ -19,19 +18,6 @@ b. Compliance with Law, Third Party Rights, and Other Google Terms of Service
 You will comply with all applicable law, regulation, and third party rights (including without limitation laws regarding the import or export of data or software, privacy, and local laws). 
 You will not use the APIs to encourage or promote illegal activity or violation of third party rights. You will not violate any other terms of service with Google (or its affiliates).
 
-
-Section 3: Your API Clients
-a. API Clients and Monitoring
-The APIs are designed to help you enhance your websites and applications ("API Client(s)"). YOU AGREE THAT GOOGLE MAY MONITOR USE OF THE APIS TO ENSURE QUALITY, IMPROVE GOOGLE PRODUCTS AND SERVICES, AND VERIFY YOUR COMPLIANCE WITH THE TERMS. This monitoring may include Google accessing and using your API Client, for example to identify security issues that could affect Google or its users. You will not interfere with this monitoring. Google may use any technical means to overcome such interference. Google may suspend access to the APIs by you or your API Client without notice if we reasonably believe that you are in violation of the Terms.
-
-b. Security
-You will use commercially reasonable efforts to protect user information collected by your API Client, including personal data, from unauthorized access or use and will promptly report to your users any unauthorized access or use of such information to the extent required by applicable law.
-
-c. Ownership
-Google does not acquire ownership in your API Clients, and by using our APIs, you do not acquire ownership of any rights in our APIs or the content that is accessed through our APIs.
-
-d. User Privacy and API Clients
-You will comply with (1) all applicable privacy laws and regulations including those applying to personal data and (2) the Google API Services User Data Policy, which governs your use of the APIs when you request access to Google user information. You will provide and adhere to a privacy policy for your API Client that clearly and accurately describes to users of your API Client what user information you collect and how you use and share such information (including for advertising) with Google and third parties.
 
 Section 4: Prohibitions and Confidentiality
 a. API Prohibitions
