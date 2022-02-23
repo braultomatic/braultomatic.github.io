@@ -25,6 +25,9 @@ If you provide this access, Study Time will use it to:
 
 Study Time will ONLY update or change Google Sheets files, and ONLY those files that you have directly chosen from within the app. All Google Sheets files are version controlled, so any unwanted changes can always be rolled back!
 
+## Terms of Service
+You can find our terms of service <a href="https://braultomatic.github.io/studytime/tos">here</a>!
+
 ## Privacy Policy
 
 You can find our privacy policy  <a href="https://braultomatic.github.io/studytime/privacy">here</a>!
